@@ -4,15 +4,11 @@
 
 ### PROFESSIONAL SUMMARY
 
-Highly motivated Computer Science graduate specialising in Artificial Intelligence.
-
-Proficient in Python, JavaScript, Angular, Java, and C/C++ with hands-on experience in Machine Learning, Data Analysis, and Web Development.
-
-Completed multiple internships focused on AI model development, predictive analytics, and data-driven solutions.
-
-Strong foundation in Data Structures, Operating Systems, OOP, and Database Management.
-
-Passionate about leveraging Artificial Intelligence and Data Science to build impactful real-world solutions.
+- Highly motivated Computer Science graduate specialising in Artificial Intelligence.
+- Proficient in Python, JavaScript, Angular, Java, and C/C++ with hands-on experience in Machine Learning, Data Analysis, and Web Development.
+- Completed multiple internships focused on AI model development, predictive analytics, and data-driven solutions.
+- Strong foundation in Data Structures, Operating Systems, OOP, and Database Management.
+- Passionate about leveraging Artificial Intelligence and Data Science to build impactful real-world solutions.
 
 ### TECHNICAL SKILLS
 
